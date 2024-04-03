@@ -1,4 +1,4 @@
-function addnumber(a,b)
+function deduction(a,b)
 {
-return a+b;
+return a-b;
 }
